@@ -81,4 +81,4 @@ F1-Score: 0.85
 
 ---
 
-✍️ Autor: *Seu Nome*
+✍️ Autor: *KARMA*
